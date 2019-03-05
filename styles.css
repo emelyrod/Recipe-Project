@@ -1,0 +1,56 @@
+h1{
+    color:black;
+    text-align:center;
+}
+h2{
+    color:white;
+    text-align:center;
+}
+
+img{
+    width:350px;
+    height:200px;
+    
+}
+#header{
+    width:600px;
+    height:75px;
+    background: lightgray;
+    border-radius:30px;
+    text-align:center;
+    
+}
+#big{
+    width:600px;
+    height:300px;
+    background: lightgray;
+    border-radius:30px;
+}
+#left{
+    width:245px;
+    height:300px;
+    float:left;
+    background: turquoise;
+    border-radius:30px;
+}
+#right{
+    width:345px;
+    height:300px;
+    float:right;
+    background: lightgreen;
+    border-radius:30px;
+}
+#footer{
+    width:600px;
+    height:100px;
+    background: lightgray;
+    border-radius:30px;
+    text-align:center;
+}
+#middle{
+    width:600px;
+    height:300px;
+    background: lavender;
+    border-radius:30px;
+}
+
